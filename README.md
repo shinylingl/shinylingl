@@ -1,4 +1,4 @@
-### Hi there 👋
+## “A language is an exact reflection of the character and growth of its speakers.” – Cesar Chavez “ 👋
 
 <!--
 **shinylingl/shinylingl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
